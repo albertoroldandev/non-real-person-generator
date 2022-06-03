@@ -4,7 +4,7 @@ Generate a random person with complete name and photo.
 
 - Avatars are randomly chosen from 100 pre-made avatars, using NVIDIA's StyleGAN random person face generation artificial intelligence, at [this-person-does-not-exist.com](https://this-person-does-not-exist.com/en).
 
-### To test the script: [Non-Real Person Generator](https://www.example.com)
+### To test the script: [Non-Real Person Generator](https://albertoroldan11.github.io/non-real-person-generator)
 Preview:
 <p align="center">
 <img src="preview.jpg"
